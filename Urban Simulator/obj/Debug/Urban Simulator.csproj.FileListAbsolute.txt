@@ -1,0 +1,6 @@
+D:\Learning and Training\Online Archistar Courses\Generative Urban Design\CODE\urbansimulator_Rhino\Urban Simulator\Urban Simulator\bin\Urban Simulator.dll
+D:\Learning and Training\Online Archistar Courses\Generative Urban Design\CODE\urbansimulator_Rhino\Urban Simulator\Urban Simulator\bin\Urban Simulator.pdb
+D:\Learning and Training\Online Archistar Courses\Generative Urban Design\CODE\urbansimulator_Rhino\Urban Simulator\Urban Simulator\obj\Debug\Urban Simulator.csprojAssemblyReference.cache
+D:\Learning and Training\Online Archistar Courses\Generative Urban Design\CODE\urbansimulator_Rhino\Urban Simulator\Urban Simulator\obj\Debug\Urban Simulator.csproj.CoreCompileInputs.cache
+D:\Learning and Training\Online Archistar Courses\Generative Urban Design\CODE\urbansimulator_Rhino\Urban Simulator\Urban Simulator\obj\Debug\Urban Simulator.dll
+D:\Learning and Training\Online Archistar Courses\Generative Urban Design\CODE\urbansimulator_Rhino\Urban Simulator\Urban Simulator\obj\Debug\Urban Simulator.pdb
